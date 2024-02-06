@@ -14,3 +14,11 @@ class Pattern5{
         }
     }
 }
+
+// Output:
+// Enter the number of rows: 5
+// * * * * *
+// * * * *
+// * * *
+// * * 
+// *
